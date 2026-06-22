@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-16)
+## Unreleased (2026-06-22)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`dadabba`](https://github.com/stdlib-js/stdlib/commit/dadabba66e44060c40b231ebf1862aa0453e5285) - **chore:** resolve C compiler warnings _(by Athan Reines)_
 -   [`d505c57`](https://github.com/stdlib-js/stdlib/commit/d505c57edb6d9e989a1dea07432f17e6ac608ebb) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`95e3a15`](https://github.com/stdlib-js/stdlib/commit/95e3a153b0483dbee7c0d55cb80eee826f0933fb) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`a2a6b49`](https://github.com/stdlib-js/stdlib/commit/a2a6b49348a8057afc805b27b535dcbce79fd117) - **feat:** add C implementation for `stats/base/ndarray/sminabs` [(#10044)](https://github.com/stdlib-js/stdlib/pull/10044) _(by Samarth Kolarkar, Sachin Pangal)_
