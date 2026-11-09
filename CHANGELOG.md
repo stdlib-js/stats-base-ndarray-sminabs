@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-11-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`287a20d`](https://github.com/stdlib-js/stdlib/commit/287a20dac0acf4c3238f412e56fa3a9f315e7359) - **docs:** fix descriptions [(#15863)](https://github.com/stdlib-js/stdlib/pull/15863) _(by JoyBoy, Athan Reines)_
 -   [`dadabba`](https://github.com/stdlib-js/stdlib/commit/dadabba66e44060c40b231ebf1862aa0453e5285) - **chore:** resolve C compiler warnings _(by Athan Reines)_
 -   [`d505c57`](https://github.com/stdlib-js/stdlib/commit/d505c57edb6d9e989a1dea07432f17e6ac608ebb) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`95e3a15`](https://github.com/stdlib-js/stdlib/commit/95e3a153b0483dbee7c0d55cb80eee826f0933fb) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -37,9 +38,10 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   JoyBoy
 -   Philipp Burckhardt
 -   Sachin Pangal
 -   Samarth Kolarkar
